@@ -230,10 +230,10 @@ Thanks goes to these wonderful people
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/D0xx249">
-            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="D0xx249"/>
+        <a href="https://github.com/Z4rak">
+            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="Z4rak"/>
             <br />
-            <sub><b>Felipe</b></sub>
+            <sub><b>Z4rak</b></sub>
         </a>
     </td>
     <td align="center">
