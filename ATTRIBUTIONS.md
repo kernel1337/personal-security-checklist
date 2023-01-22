@@ -93,13 +93,20 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/pndyjack">
+            <img src="https://avatars.githubusercontent.com/u/20967911?v=4" width="80;" alt="pndyjack"/>
+            <br />
+            <sub><b>pndyjack</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/kdenhartog">
             <img src="https://avatars.githubusercontent.com/u/23125059?v=4" width="80;" alt="kdenhartog"/>
             <br />
             <sub><b>Kyle Den Hartog</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mwleeds">
             <img src="https://avatars.githubusercontent.com/u/7833263?v=4" width="80;" alt="mwleeds"/>
@@ -134,15 +141,15 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>101lols</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/boushley">
             <img src="https://avatars.githubusercontent.com/u/101239?v=4" width="80;" alt="boushley"/>
             <br />
             <sub><b>Aaron Boushley</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Adv4n6">
             <img src="https://avatars.githubusercontent.com/u/34752023?v=4" width="80;" alt="Adv4n6"/>
@@ -177,15 +184,15 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Benjamin B</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BrunoBernardino">
             <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="80;" alt="BrunoBernardino"/>
             <br />
             <sub><b>Bruno Bernardino</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/chemmi">
             <img src="https://avatars.githubusercontent.com/u/15739060?v=4" width="80;" alt="chemmi"/>
@@ -220,6 +227,14 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Federico</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Z4rak">
+            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="Z4rak"/>
+            <br />
+            <sub><b>Felipe</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/fkohrt">
@@ -227,8 +242,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Florian Kohrt</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/freddy-m">
             <img src="https://avatars.githubusercontent.com/u/25013506?v=4" width="80;" alt="freddy-m"/>
@@ -256,7 +270,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Jason G</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mxygem">
             <img src="https://avatars.githubusercontent.com/u/21065409?v=4" width="80;" alt="mxygem"/>
@@ -270,8 +285,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Jess</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/openjck">
             <img src="https://avatars.githubusercontent.com/u/933396?v=4" width="80;" alt="openjck"/>
@@ -299,7 +313,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Kazuki Koide</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/leon-costa">
             <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
@@ -313,8 +328,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Luke Carr</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mschwrdtnr">
             <img src="https://avatars.githubusercontent.com/u/39745446?v=4" width="80;" alt="mschwrdtnr"/>
@@ -342,7 +356,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Pedro Delfino</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/sjamaan">
             <img src="https://avatars.githubusercontent.com/u/128536?v=4" width="80;" alt="sjamaan"/>
@@ -356,8 +371,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Rory Byrne</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Silvhr">
             <img src="https://avatars.githubusercontent.com/u/71043300?v=4" width="80;" alt="Silvhr"/>
@@ -385,7 +399,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Tim Weber</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/zeusalmighty717">
             <img src="https://avatars.githubusercontent.com/u/79133911?v=4" width="80;" alt="zeusalmighty717"/>
@@ -399,8 +414,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Apraile</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/elesiuta">
             <img src="https://avatars.githubusercontent.com/u/8146662?v=4" width="80;" alt="elesiuta"/>
@@ -428,7 +442,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Kevodwyer</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/notthewave">
             <img src="https://avatars.githubusercontent.com/u/74874782?v=4" width="80;" alt="notthewave"/>
@@ -442,8 +457,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Oğuzhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/partoneoftwo">
             <img src="https://avatars.githubusercontent.com/u/1677630?v=4" width="80;" alt="partoneoftwo"/>
