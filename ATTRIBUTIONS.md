@@ -136,10 +136,10 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/leon-costa">
-            <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
+        <a href="https://github.com/101lols">
+            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
             <br />
-            <sub><b>Leon Costa</b></sub>
+            <sub><b>101lols</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -308,32 +308,18 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/101lols">
-            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
-            <br />
-            <sub><b>101lols</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/boushley">
             <img src="https://avatars.githubusercontent.com/u/101239?v=4" width="80;" alt="boushley"/>
             <br />
             <sub><b>Aaron Boushley</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Adv4n6">
             <img src="https://avatars.githubusercontent.com/u/34752023?v=4" width="80;" alt="Adv4n6"/>
             <br />
             <sub><b>Adv4n6</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/andydonzelli">
-            <img src="https://avatars.githubusercontent.com/u/6990701?v=4" width="80;" alt="andydonzelli"/>
-            <br />
-            <sub><b>Andy Donzelli</b></sub>
         </a>
     </td>
     <td align="center">
@@ -356,8 +342,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Benjamin B</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BrunoBernardino">
             <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="80;" alt="BrunoBernardino"/>
@@ -371,7 +356,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Christian Hemminghaus</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/DaShoe">
             <img src="https://avatars.githubusercontent.com/u/89014564?v=4" width="80;" alt="DaShoe"/>
@@ -399,8 +385,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Federico</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/0x5FE">
             <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="0x5FE"/>
@@ -414,7 +399,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Florian Kohrt</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/freddy-m">
             <img src="https://avatars.githubusercontent.com/u/25013506?v=4" width="80;" alt="freddy-m"/>
@@ -442,8 +428,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Jason G</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mxygem">
             <img src="https://avatars.githubusercontent.com/u/21065409?v=4" width="80;" alt="mxygem"/>
@@ -457,7 +442,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Jess</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/openjck">
             <img src="https://avatars.githubusercontent.com/u/933396?v=4" width="80;" alt="openjck"/>
@@ -484,6 +470,13 @@ Thanks goes to these wonderful people
             <img src="https://avatars.githubusercontent.com/u/17229643?v=4" width="80;" alt="koirand"/>
             <br />
             <sub><b>Kazuki Koide</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/leon-costa">
+            <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
+            <br />
+            <sub><b>Leon Costa</b></sub>
         </a>
     </td></tr>
 </table>
